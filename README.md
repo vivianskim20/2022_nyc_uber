@@ -1,5 +1,7 @@
 # 2022 NYC Uber Analysis Overview
 
+The preview version with only January 2022 data is available on [Tableau Public](https://public.tableau.com/app/profile/vivian.k4558/viz/shared/7J4PNRK8X).
+
 ## I. Objective
 
 The purpose is to create an interactive dashboard that can allow users to run analysis on revenue/profit of Uber trips made in NYC in 2022. Depending on the time of the day, month of the year, pickup and dropoff location, and other various factors, the revenue differed greatly. With time and location breakdowns, users can have a better understanding of the fluctuation of the revenue/profit.
