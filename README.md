@@ -32,7 +32,7 @@ The following metrics are used to describe the sales per breakdown.
 These metrics have breakdowns by month, day, and time to allow users to compare the differences and better understand the fluctuations. See below for initial prototype of the dashboard:
 
 <p align="center">
-<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/dashboard%20plan.jpeg" alt="drawing" width="545" height="800"/>
+<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/images/dashboard%20plan.jpeg" alt="drawing" width="545" height="800"/>
 </p>
 
 ## IV. Data Sources
@@ -48,7 +48,7 @@ The datasets used in this dashboard are from the following sources:
 ## V. Infrastructure
 
 <p align="center">
-<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/process.png" alt="drawing" width="335" height="250"/>
+<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/images/process.png" alt="drawing" width="335" height="250"/>
 </p>
 
 From the data sources, data files are obtained and processed in Jupyter Notebook in the following order:
@@ -69,7 +69,7 @@ In Snowflake, four fact and dimension tables are created according to the data s
 1. Data schema:
 
 <p align="center">
-<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/data%20schema.png" alt="drawing" width="757" height="400"/>
+<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/images/data%20schema.png" alt="drawing" width="600" height="317"/>
 </p>
 
 2. fct_trips:
