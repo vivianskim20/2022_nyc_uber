@@ -48,7 +48,7 @@ The datasets used in this dashboard are from the following sources:
 ## V. Infrastructure
 
 <p align="center">
-<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/process.png" alt="drawing" width="402" height="300"/>
+<img src="https://github.com/vivianskim20/2022_nyc_uber/blob/main/process.png" alt="drawing" width="335" height="250"/>
 </p>
 
 From the data sources, data files are obtained and processed in Jupyter Notebook in the following order:
