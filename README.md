@@ -58,9 +58,9 @@ From the data sources, data files are obtained and processed in Jupyter Notebook
   3. The resulting rows are concatenated to make a single CSV file that contains all rows and columns of interest
 - Taxi zone data
   1. The column ‘the_geom’ contains all combinations of latitude and longitude for the specific zone-borough, so the average of all latitudes and all longitudes are computed to give each zone-borough a unique latitude and longitude
-Since ‘LocationID’ has duplicate rows, it’s dropped and ‘OBJECTID’ is renamed to ‘LocationID’ for readability
-The columns ‘zone’ and ‘borough’ are concatenated with a comma in the middle to later show them in an interactive map
-The final result is exported to a CSV file
+  2. Since ‘LocationID’ has duplicate rows, it’s dropped and ‘OBJECTID’ is renamed to ‘LocationID’ for readability
+  3. The columns ‘zone’ and ‘borough’ are concatenated with a comma in the middle to later show them in an interactive map
+  4. The final result is exported to a CSV file
 
 In Snowflake, four fact and dimension tables are created according to the data schema shown below. The resulting tables are loaded to Tableau and joined to create a dashboard.
 
