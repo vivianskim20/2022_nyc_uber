@@ -62,7 +62,7 @@ From the data sources, data files are obtained and processed in Jupyter Notebook
   3. The columns ‘zone’ and ‘borough’ are concatenated with a comma in the middle to later show them in an interactive map
   4. The final result is exported to a CSV file
 
-In Snowflake, four fact and dimension tables are created according to the data schema shown below. The resulting tables are loaded to Tableau and joined to create a dashboard.
+In Snowflake, four fact and dimension tables are created according to the data schema shown below. About 5% of rows were filtered out with NULL pickup or dropoff locations. The resulting tables are loaded to Tableau and joined to create a dashboard.
 
 ## VI. Objects
 
