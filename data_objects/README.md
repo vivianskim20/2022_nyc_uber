@@ -1,0 +1,1 @@
+The two location files (`dim_pickup_loc` and `dim_dropoff_loc`) are available in this folder. The other two files (`fct_trips` and `dim_request_datetime`) are too large to be posted here. In this [Google Drive](https://drive.google.com/drive/folders/1e9N-NILCvsCrlJKmp9bCYamMHdY-xRak?usp=sharing), a small portion consisting only January of fct_trips is uploaded.
