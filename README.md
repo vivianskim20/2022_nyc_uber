@@ -1,6 +1,6 @@
 # 2022 NYC Uber Analysis Overview
 
-The preview version with only January 2022 data is available on [Tableau Public](https://public.tableau.com/app/profile/vivian.k4558/viz/shared/7J4PNRK8X).
+The preview version consisting only January 2022 data is available on [Tableau Public](https://public.tableau.com/app/profile/vivian.k4558/viz/shared/7J4PNRK8X).
 
 ## I. Objective
 
